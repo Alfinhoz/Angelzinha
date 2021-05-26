@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express.js": "^1.0.0",
+    "jimp": "^0.16.1",
+    "js": "^0.1.0",
+    "lowdb": "^2.0.3",
+    "quick.db": "^7.1.3",
+    "stack": "^0.1.0",
+    "stackoverflow": "0.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
